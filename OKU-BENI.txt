@@ -1,0 +1,10 @@
+ZANA BILISIM ANDROID UYGULAMASI - APK OLUSTURMA
+
+Yontem 1 (Android Studio):
+ 1. Android Studio'yu acin, File > Open ile bu klasoru secin. Gradle senkronu bitsin.
+ 2. Build > Build APK(s). APK: app/build/outputs/apk/debug/app-debug.apk
+ 3. APK'yi telefona/tablete aktarip kurun (Bilinmeyen kaynaklara izin verin).
+
+Yontem 2 (Bilgisayara kurulum gerekmez - GitHub):
+ 1. Ucretsiz bir GitHub deposu acip bu klasorun icerigini yukleyin.
+ 2. Actions sekmesinde "APK Derle" calisir; bitince "ZanaBilisim-apk" dosyasini indirin.
